@@ -6,7 +6,7 @@ catch_rules: #转换规则
 
         - search: _ 
           replace: 
-            - m6.centurymc.cn:12011
+            - m6.centurymc.cn:12012
 
         - search: \.(js|css)
           action: fetch
