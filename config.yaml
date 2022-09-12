@@ -6,7 +6,7 @@ catch_rules: #转换规则
 
         - search: _ 
           replace: 
-            - 103.239.247.5:12012
+            - 180.101.49.12
 
         - search: \.(js|css)
           action: fetch
